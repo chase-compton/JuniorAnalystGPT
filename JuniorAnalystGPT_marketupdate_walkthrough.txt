@@ -1,0 +1,108 @@
+Say hello to your personal JuniorAnalystGPT!
+
+(type "quit" to exit)
+(type "info" for info on the assistant)
+
+----------
+user > Let's start with a market update. Give me news about the technology sector.
+
+JuniorAnalystGPT > calling get_recent_news_and_sentiments function...
+
+JuniorAnalystGPT > I've gathered some exciting news from the technology sector for you:
+
+1. **[Super Micro Computer Stock Crash](https://www.fool.com/investing/2024/05/01/why-super-micro-computer-stock-crashed-and-burned/)**:
+   - The stock experienced a crash despite strong quarterly results.
+   - Source: Motley Fool
+
+2. **[T-Mobile US Options Trends](https://www.benzinga.com/insights/options/24/05/38559177/behind-the-scenes-of-t-mobile-uss-latest-options-trends)**:
+   - Notable bearish stance observed in T-Mobile US options trends.
+   - Source: Benzinga
+
+3. **[Analyst Optimism for Meta Platforms Stock](https://www.fool.com/investing/2024/05/01/1-wall-street-analyst-thinks-meta-platforms-stock/)**:
+   - Analyst predicts a 32% potential increase in share price for Meta Platforms.
+   - Source: Motley Fool
+
+4. **[Pinterest's Earnings Beat](https://www.benzinga.com/news/earnings/24/05/38538538/pinterest-q1-earnings-and-revenues-top-estimates)**:
+   - Pinterest exceeded Q1 earnings and revenue estimates.
+   - Source: Benzinga
+
+5. **[Industry Leaders Root for Innovation at Meta](https://www.cnbc.com/2024/05/01/after-metas-year-of-efficiency-tech-leaders-root-for-innovation.html)**:
+   - Tech leaders advocate for innovation following Meta's efficiency focus.
+   - Source: CNBC
+
+Exciting times in the tech world! 🌟📈
+
+----------
+user > what about top gainers and losers?
+
+JuniorAnalystGPT > calling get_top_gainers_and_losers function...
+
+JuniorAnalystGPT > ### Top Gainers 📈:
+1. **VRMEW**
+   - **Price:** $0.0799
+   - **Change:** +128.29%
+   - **Volume:** 27,033
+
+2. **PHGE=**
+   - **Price:** $0.47
+   - **Change:** +111.52%
+   - **Volume:** 6,673
+
+3. **CLVRW**
+   - **Price:** $0.0127
+   - **Change:** +81.43%
+   - **Volume:** 105,292
+
+### Top Losers 📉:
+1. **JTAIW**
+   - **Price:** $0.0301
+   - **Change:** -49.41%
+   - **Volume:** 159
+
+2. **OSI+**
+   - **Price:** $0.0107
+   - **Change:** -46.23%
+   - **Volume:** 19,046
+
+### Most Actively Traded 🔥:
+1. **TLRY**
+   - **Price:** $2.47
+   - **Change:** +39.55%
+   - **Volume:** 148,993,298
+
+2. **TSLA**
+   - **Price:** $183.28
+   - **Change:** -5.55%
+   - **Volume:** 125,743,668
+
+Exciting movements in the market today! 🎢💼
+
+----------
+user > Interesting, give me a company overview of VRMEW.
+
+JuniorAnalystGPT > calling get_company_overview function...
+
+JuniorAnalystGPT > ### VerifyMe Inc (VRMEW) Overview 🏢:
+- **Description:** VerifyMe, Inc. provides security solutions for identification and authentication of people, products, and packaging in the US. 
+- **Headquarters:** Rochester, New York 🗽
+- **Sector:** Real Estate & Construction
+- **Industry:** Patent Owners & Lessors
+- **Fiscal Year End:** December
+- **Latest Quarter:** Q4 2023
+- **Revenue TTM:** $25,313,000
+- **Revenue Per Share TTM:** $2.592
+- **Profit Margin:** -13.4%
+- **Operating Margin TTM:** -0.6%
+- **Return on Assets TTM:** -10%
+- **Return on Equity TTM:** -26%
+- **52-Week High:** $0.25
+- **52-Week Low:** $0.011
+- **Beta:** 0.741
+
+Interesting insights into VerifyMe Inc's operations and performance! 📊🔍
+
+----------
+user > quit
+
+Exiting...
+Goodbye!

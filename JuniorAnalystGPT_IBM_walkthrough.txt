@@ -1,0 +1,145 @@
+Say hello to your personal JuniorAnalystGPT!
+
+(type "quit" to exit)
+(type "info" for info on the assistant)
+
+----------
+user > Hey, tell me about your capabilities?
+
+JuniorAnalystGPT > Hey there! 🎉 I'm here to help you with all things related to public companies! Whether you need information on stock prices 📈, financial ratios 📊, earnings reports 💰, or upcoming IPOs 🎉, I've got you covered! Just let me know what you need, and I'll dive into the exciting world of finance to fetch the data you're looking for! How can I assist you today? 🚀
+
+----------
+user > Sounds great! Let's start with some research into IBM. Give me an overview on the company and tell me how their stock has been recently.
+
+JuniorAnalystGPT > calling get_company_overview function...
+
+JuniorAnalystGPT > calling get_latest_price function...
+
+JuniorAnalystGPT > I've got some exciting information about IBM for you! 🚀
+
+### Company Overview:
+- **Name:** International Business Machines (IBM)
+- **Description:** IBM is an American multinational technology company known for its innovation in computer hardware, middleware, software, and services. It's a major player in the tech industry with a rich history of inventions like the ATM, floppy disk, and more.
+- **Sector:** Technology
+- **Industry:** Computer & Office Equipment
+- **Market Capitalization:** $152.67 billion
+- **Revenue (TTM):** $62.07 billion
+- **EPS (TTM):** $8.83
+- **Dividend Per Share:** $6.64
+- **Latest Quarterly Earnings Growth (YoY):** 70.1%
+- **Analyst Target Price:** $184.84
+- **52-Week High:** $199.18
+- **52-Week Low:** $116.36
+- **Shares Outstanding:** 916,745,000
+
+### Recent Stock Data:
+- **Price:** $166.20
+- **Open:** $166.49
+- **High:** $166.76
+- **Low:** $165.26
+- **Previous Close:** $167.43
+- **Volume:** 6,011,634
+- **Change:** -$1.23
+- **Change Percent:** -0.73%
+- **Latest Trading Day:** April 30, 2024
+
+IBM continues to be a key player in the tech world with consistent growth and a strong market presence! 🌟 Let me know if you need more details or have any other questions!
+
+----------
+user > Good work. Tell me about how their revenue has changed over the last 5 years. And also tell me about how much debt they keep on their balance sheet. 
+
+JuniorAnalystGPT > calling get_income_statemnt function...
+
+JuniorAnalystGPT > ### Revenue Changes Over the Last 5 Years:
+
+- **2023:** $61.86 billion
+- **2022:** $60.53 billion
+- **2021:** $57.35 billion
+- **2020:** $55.18 billion
+- **2019:** $57.71 billion
+
+IBM's revenue has shown slight fluctuations over the past 5 years, with the highest revenue reported in 2019. 
+
+### Debt on Balance Sheet:
+- IBM's debt levels can be identified by analyzing the balance sheet details, particularly the liabilities section.
+
+Let's delve into the balance sheet to provide you with specific information about IBM's debt.
+
+JuniorAnalystGPT > calling get_balance_sheet function...
+
+JuniorAnalystGPT > ### Debt on IBM's Balance Sheet:
+
+- **2023:** Total Debt: $120.63 billion
+  - Current Debt: $12.85 billion
+  - Short-Term Debt: $6.43 billion
+  - Long-Term Debt: $54.59 billion
+
+- **2022:** Total Debt: $107.76 billion
+  - Current Debt: $9.51 billion
+  - Short-Term Debt: $4.76 billion
+  - Long-Term Debt: $47.19 billion
+
+- **2021:** Total Debt: $110.49 billion
+  - Current Debt: $13.55 billion
+  - Short-Term Debt: $6.79 billion
+  - Long-Term Debt: $56.19 billion
+
+- **2020:** Total Debt: $130.18 billion
+  - Current Debt: $14.10 billion
+  - Short-Term Debt: $7.12 billion
+  - Long-Term Debt: $68.42 billion
+
+- **2019:** Total Debt: $132.19 billion
+  - Current Debt: $16.32 billion
+  - Short-Term Debt: $8.80 billion
+  - Long-Term Debt: $65.95 billion
+
+IBM has maintained a significant amount of debt on its balance sheet over the past years, with fluctuations in the total debt levels.
+
+
+----------
+user > Ok last question: How has IBMs eps changed since 2018?
+
+JuniorAnalystGPT > calling get_eps function...
+
+JuniorAnalystGPT > ### IBM's EPS Changes since 2018:
+
+- **2018:** $13.82
+- **2019:** $12.81
+- **2020:** $8.67
+- **2021:** $9.97
+- **2022:** $9.12
+- **2023:** $9.61
+- **2024:** $1.68 (as of the most recent quarter)
+
+IBM's EPS has shown variations over the years, reflecting the company's performance and market dynamics. If you need more details or have any other questions, feel free to ask! 🚀📈
+
+----------
+user > Great work. Compile all the info you have given me into a short summary. Make it informative but to the point. 
+
+JuniorAnalystGPT > Absolutely! Here's a concise summary of the information on IBM:
+
+🌟 **IBM Overview:** 
+- IBM (International Business Machines) is a tech giant known for innovation in computer hardware, software, and services.
+- It operates in the Technology sector and Computer & Office Equipment industry.
+- Market capitalization is $152.67 billion, with revenue of $62.07 billion (TTM).
+- IBM's EPS has varied over the years, from $13.82 in 2018 to $1.68 in the most recent quarter.
+
+📊 **Financial Performance:**
+- IBM's revenue fluctuated over the last 5 years, reaching a peak of $57.71 billion in 2019.
+- The company maintains a significant amount of debt on its balance sheet, with total debt ranging from $107.76 billion to $132.19 billion in recent years.
+
+💸 **Stock Performance:**
+- IBM's stock price is around $166.20, with a 52-week high of $199.18 and low of $116.36.
+- Recent trading volume was 6,011,634 shares, with the latest closing price at $166.20.
+
+🚀 **Conclusion:**
+- IBM continues to be a key player in the tech industry, adapting to market trends while navigating financial challenges effectively.
+
+If you have any more questions or need further details, feel free to ask! 🚀📈
+
+----------
+user > quit
+
+Exiting...
+Goodbye!
